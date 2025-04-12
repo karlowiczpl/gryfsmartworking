@@ -1,27 +1,4 @@
----
-title: Gryfsmart
-description: Instructions on how to integrate GryfSmart within Home Assistant.
-ha_release: 2025.1
-ha_category:
-  - Binary sensor
-  - Climate
-  - Sensor
-  - Switch
-  - Light
-ha_iot_class: Local Pushing
-ha_config_flow: true
-ha_domain: gryfsmart
-ha_platforms:
-  - Binary sensor
-  - Climate
-  - Sensor
-  - Switch
-  - Light
-  - binary_sensor
-ha_codeowners:
-  - '@karlowiczpl'
-ha_integration_type: hub
----
+
 
 # GRYF_SMART Integration for Home Assistant
 
